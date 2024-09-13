@@ -27,7 +27,7 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/Pravesh-Sudha/python-spell-checker.git
-   cd spelling-checker
+   cd python-spell-checker
    ```
 
 2. **Install the required libraries**:
@@ -67,10 +67,6 @@ spelling-checker/
 ├── main.py           # The main Python script for running the app
 └── README.md         # This file
 ```
-
-## Screenshots
-
-Add screenshots of your app here for visual reference.
 
 ## Future Improvements
 
